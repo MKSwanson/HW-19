@@ -1,0 +1,393 @@
+
+
+body {
+    background-color: #d5be94;
+  }
+
+.center{
+    font-size: 60px;
+    background-color: #8ca085;
+    position: sticky;
+}
+
+/*----------------------------about me page-------------------------*/
+.logo{
+    
+    background-image: url("../images/PortImg10.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 55vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   
+}
+
+
+.nav{
+    display: flex;
+    background-color: #d6be93;
+    padding: 20px;
+    box-align: flex-end;
+}
+
+
+
+
+
+
+
+/* -----------------top section------------------ */
+
+.hero {
+   
+    height: 772px;
+    width: 579px;
+    background-image: url('../images/PortImg4.jpg');
+    background-size: cover;
+    background-position: left; 
+    background-color: #d6be93;
+    text-align: center; 
+    margin-bottom: 50px;
+    
+}
+
+.welcome {
+    /*position: top ;*/
+    font-size: 100px;
+    background: #8ca085;
+    width: 579px;
+    height: 420px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+.herotext {
+    position: top ;
+    font-size: 30px;
+    background: #d6be93;
+    width: 579px;
+    height: 420px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+.Title1{
+    font-size: 50px;
+    background-color: #8ca085;
+    margin-bottom: 50px;
+}
+
+.Title2{
+    font-size: 50px;
+    background-color: #8ca085;
+    margin-bottom: 50px;
+}
+
+.Title3{
+    font-size: 50px;
+    background-color: #8ca085;
+    margin-bottom: 50px;
+}
+
+.Title4{
+    font-size: 50px;
+    background-color: #8ca085;
+    margin-bottom: 50px;
+}
+
+.CS1row1{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66; 
+}
+
+
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin: 50px;
+}
+
+.flexcontainer2{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.Skills1{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.Skills2{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.Skills3{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.gifrow1{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    margin-bottom: 50px;
+}
+
+.work1a{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.work1b{
+    display: flex;
+    flex-direction: row;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.contactText{
+    display: flex;
+    flex-direction: center;
+    background-color: #9b7b66;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.cats{
+    margin-left: 20px;
+    height: 504px;
+    width: 378px;
+    background-size: cover;
+    background-image: url("../images/PortImg8.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.art{
+    margin-left: 20px;
+    height: 507px;
+    width: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/PortImg9.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.footer{
+    padding: 20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.ig{
+    color: magenta;
+}
+
+.li{
+    color: blue;
+}
+
+
+
+/*-----------------------------------------my skills-----------------------------*/
+
+.IUiUx{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/a4.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.Icode{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/a6.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.IDesignThinking{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/a5.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+/*.ITools{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/ITools.jpg");
+} */
+
+.IResearch{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/a3.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.IUseTesting{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/a1.jpg");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+
+/*----------------------my work--------------------*/
+
+.casestudy1{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/PortImg11.JPG");
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+.casestudy1text {
+   
+    font-size: 30px;
+    background: #d6be93;
+    width: 579px;
+    height: 150px;
+    float: right;
+    padding: 0 0 20px 20px;
+    padding: 100px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.GIFcs1Donate {
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    background-image: url("../images/GIFcs1Donate.gif");
+    background: no-repeat;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+.GIFcs1OG {
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+.WProgress{
+    
+    height: 504px;
+    width: 900px;
+    background-size: cover;
+    background-image: url("../images/WProgress.JPG");
+    margin-bottom: 50px;
+}
+
+.WGuide{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/WGuide.JPG");
+    margin-bottom: 50px;
+}
+
+.Wrwd{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/Wrwd.JPG");
+    margin-bottom: 50px;
+}
+
+.WAffinity{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/WAffinity.JPG");
+    margin-bottom: 50px;
+}
+
+
+/*-----------------------------contact me----------------------*/
+
+.contacttext {
+   
+    font-size: 30px;
+    background: #d6be93;
+    width: 579px;
+    height: 120px;
+    float: center;
+    padding: 0 0 20px 20px;
+    
+}
